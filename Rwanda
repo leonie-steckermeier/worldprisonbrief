@@ -23,3 +23,27 @@ replace prisonrate=941 if countrycode=="RWA" & year==2004
 replace prisonrate=1246 if countrycode=="RWA" & year==2002
 
 replace prisonrate=1947 if countrycode=="RWA" & year==1998
+
+replace prisonpop=76099 if countrycode=="RWA" & year==2021
+
+replace prisonpop=71000 if countrycode=="RWA" & year==2020
+
+replace prisonpop=66392 if countrycode=="RWA" & year==2018
+
+replace prisonpop=51124 if countrycode=="RWA" & year==2016
+
+replace prisonpop=54279 if countrycode=="RWA" & year==2014
+
+replace prisonpop=58223 if countrycode=="RWA" & year==2012
+
+replace prisonpop=55000 if countrycode=="RWA" & year==2010
+
+replace prisonpop=59311 if countrycode=="RWA" & year==2008
+
+replace prisonpop=82000 if countrycode=="RWA" & year==2006
+
+replace prisonpop=87000 if countrycode=="RWA" & year==2004
+
+replace prisonpop=112000 if countrycode=="RWA" & year==2002
+
+replace prisonpop=145021 if countrycode=="RWA" & year==1998
