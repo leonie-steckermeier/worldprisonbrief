@@ -9,4 +9,4 @@ Countrycodes (ISO) and countrynames, region, region names, incomelevel (and name
 
 The variable prisoncomment includes the notes as provided in the WPB (with exception of "i"): x=newest number, often mid-year, often estimate; c=circa/estimate; p=including estimate in police stations, i=based on linear interpolation of at least one value (Herzegovina, UK), j=Convicted prisoners only (Brazil, Jamaica). 
 
-Values for Rwanda do not include genozide related incarcerations. 
+Values for Rwanda do not include genozide related incarcerations (see file Rwanda for values including genozide related incarcerations). 
