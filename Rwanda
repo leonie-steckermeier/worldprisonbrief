@@ -1,0 +1,25 @@
+*Rwanda with genozide related incarceration
+
+replace prisonrate=580 if countrycode=="RWA" & year==2021
+
+replace prisonrate=545 if countrycode=="RWA" & year==2020
+
+replace prisonrate=544 if countrycode=="RWA" & year==2018
+
+replace prisonrate=440 if countrycode=="RWA" & year==2016
+
+replace prisonrate=491 if countrycode=="RWA" & year==2014
+
+replace prisonrate=553 if countrycode=="RWA" & year==2012
+
+replace prisonrate=547 if countrycode=="RWA" & year==2010
+
+replace prisonrate=576 if countrycode=="RWA" & year==2008
+
+replace prisonrate=837 if countrycode=="RWA" & year==2006
+
+replace prisonrate=941 if countrycode=="RWA" & year==2004
+
+replace prisonrate=1246 if countrycode=="RWA" & year==2002
+
+replace prisonrate=1947 if countrycode=="RWA" & year==1998
